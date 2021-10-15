@@ -24,5 +24,6 @@ else:
 
 print("Anak pulang ke rumah")
 print("Anak menyerahkan hasil belanja dan atau uang yang tersisa kepada ibu")
+print("Anak belajar dengan rajin")
 
 
