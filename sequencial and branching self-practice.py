@@ -7,7 +7,7 @@ print("Anak pergi ke toko")
 # Branching
 
 jumlah_susu_botol = 173
-jumlah_telur = 0
+jumlah_telur = 500
 print(f"Jumlah susu {jumlah_susu_botol} botol")
 print(f"Jumlah telur {jumlah_telur} butir")
 
